@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "872034749269",
+    "firebase_url": "https://avalia-o-formativa-default-rtdb.firebaseio.com",
+    "project_id": "avalia-o-formativa",
+    "storage_bucket": "avalia-o-formativa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872034749269:android:2d39a3493716f1a701bddc",
+        "android_client_info": {
+          "package_name": "com.appgjob.formativa_aula_atividade_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872034749269-72goii22mc8lqpgv7ggcafp5hak9939s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOWv7qkcQ34cYBTeBxTwlYR8SNSL_hs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872034749269-72goii22mc8lqpgv7ggcafp5hak9939s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872034749269:android:acea15a318b5d82901bddc",
+        "android_client_info": {
+          "package_name": "com.tcc.avaliaoformativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872034749269-72goii22mc8lqpgv7ggcafp5hak9939s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOOWv7qkcQ34cYBTeBxTwlYR8SNSL_hs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872034749269-72goii22mc8lqpgv7ggcafp5hak9939s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
